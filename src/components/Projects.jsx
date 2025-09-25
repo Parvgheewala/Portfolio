@@ -2,17 +2,24 @@ const experiences = [
   {
     company: "FameUX",
     role: "Frontend Developer Intern",
-    duration: "May 2024 – July 2024",
+    duration: "May 2024 - July 2024",
     description:
       "Worked on a real-world dashboard using React and Tailwind CSS. Improved performance with lazy loading and optimized component rendering.",
   },
   {
     company: "Freelanscape",
     role: "Technical Lead",
-    duration: "Jan 2024 – Apr 2024",
+    duration: "Jan 2024 - Apr 2024",
     description:
       "Led the development of a no-code platform using Bubble.io and Backendless. Integrated dynamic workflows and improved team productivity.",
   },
+  {
+    company: "Code Space Techlabs",
+    role:"Trainee Software Developer",
+    duration: "Aug 2025 - Nov 2025",
+    description:
+    "Contributing to the development of real-time translation and related web applications, focusing on functionality, performance, and user experience."
+  }
 ];
 
 const Projects = () => (

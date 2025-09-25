@@ -1,9 +1,8 @@
 const icons = [
-  { href: "https://github.com", icon: "🐱" },
-  { href: "https://linkedin.com", icon: "🔗" },
-  { href: "mailto:test@example.com", icon: "✉️" },
-  { href: "https://twitter.com", icon: "🐦" },
-  { href: "https://instagram.com", icon: "📸" },
+  { href: "https://github.com/Parvgheewala", icon: "🐱" },
+  { href: "https://www.linkedin.com/in/parv-gheewala-24b8b126b/", icon: "🔗" },
+  { href: "mailto:gheewalaparv@gmail.com", icon: "✉️" },
+  { href: "https://www.instagram.com/its.parvg/", icon: "📸" },
 ];
 
 const Sidebar = () => (

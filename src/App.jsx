@@ -11,7 +11,7 @@ const App = () => {
   return (
     <div
       className="relative bg-cover bg-no-repeat bg-center text-white dark:text-black"
-      style={{ backgroundImage: "url('/src/images/bg.gif')" }}
+      style={{ backgroundImage: "url('/assets/images/bg.gif')" }}
 
     >
       <div className="bg-black/80 dark:bg-white/80 transition-colors duration-300">
