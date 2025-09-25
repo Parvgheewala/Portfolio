@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <nav className="fixed top-4 left-1/2 transform -translate-x-1/2 bg-black/60 dark:bg-white/80 px-6 py-2 rounded-full flex items-center gap-6 z-50 shadow-md">
       <img src="/assets/images/avatarPic.png" alt="avatar" className="h-8 w-8 rounded-full" />
-      {["About", "Skills", "Project", "Contact"].map((item) => (
+      {["About", "Skills", "Projects", "Contact"].map((item) => (
         <a
           key={item}
           href={`#${item.toLowerCase().replace(/ /g, "-")}`}
