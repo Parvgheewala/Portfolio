@@ -14,7 +14,7 @@ const Navbar = () => {
       {["About", "Skills", "Work Experience", "Contact"].map((item) => (
         <a
           key={item}
-          href={item === "Work Experience" ? "projects" :`#${item.toLowerCase().replace(/ /g, "-")}`}
+          href={item === "Work Experience" ? "#projects" :`#${item.toLowerCase().replace(/ /g, "-")}`}
           className="text-white dark:text-black hover:text-blue-400 dark:hover:text-blue-600"
         >
           {item}
