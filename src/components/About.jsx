@@ -3,7 +3,7 @@ const About = () => (
     <div className="max-w-4xl mx-auto text-center">
       <h2 className="text-4xl font-bold mb-4">About Me</h2>
       <p className="text-lg leading-relaxed">
-        👋 I'm a self-taught Full-Stack Developer passionate about building modern, AI-integrated web applications. I specialize in the MERN stack (MongoDB, Express.js, React, Node.js), FastAPI, and LangChain. My projects focus on workflow automation, intelligent agents, and scalable APIs.
+        👋 I'm a self-taught Full-Stack Developer passionate about building modern, AI-integrated web applications. I specialize in the MERN stack (MongoDB, Express.js, React, Node.js), FastAPI, and LangChain. My projects focus on workflow automation, intelligent agents, and APIs.
       </p>
     </div>
   </section>
