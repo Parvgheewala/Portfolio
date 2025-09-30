@@ -18,7 +18,7 @@
           />
         </h2>
         <p>Crafting modern, fast, and AI-powered web apps.</p>
-        <a href="/assets/images/resume_Parv_Gheewala.pdf" className="bg-white text-black px-4 py-2 rounded-md mt-4 inline-block">View Resume</a>
+        <a href="/assets/images/ParvGheewalaResume.pdf" className="bg-white text-black px-4 py-2 rounded-md mt-4 inline-block">View Resume</a>
       </div>
       <img
     src="/assets/images/profilePic.png"
